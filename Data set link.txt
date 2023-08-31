@@ -1,0 +1,2 @@
+Link to the dataset used:
+https://www.kaggle.com/datasets/omkargurav/face-mask-dataset
